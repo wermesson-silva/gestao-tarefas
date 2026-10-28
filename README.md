@@ -20,7 +20,7 @@ Este projeto é uma aplicação Java Web desenvolvida utilizando JavaServer Face
 Clone o projeto utilizando:
 
 ```bash
-  git clone https://github.com/wermesson-silva/projeto-esig.git
+  git clone https://github.com/wermesson-silva/gestao-tarefas.git
 ```
 
 ### 2 - Configurar o banco de dados
